@@ -1,0 +1,51 @@
+# Core scientific computing
+
+numpy==1.24.4
+scipy==1.11.4
+pandas==2.0.3
+
+# Machine learning
+
+scikit-learn==1.3.2
+joblib==1.3.2
+
+# Deep learning
+
+torch==2.0.1
+torch-geometric==2.5.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-cluster==1.6.3
+torch-spline-conv==1.2.2
+
+# Graph analysis
+
+networkx==3.2.1
+
+# Data visualization
+
+matplotlib==3.7.5
+seaborn==0.13.2
+
+# Progress bar
+
+tqdm==4.66.1
+
+# Utilities
+
+pyyaml==6.0.1
+packaging==23.2
+
+# Optional dimensionality reduction and analysis
+
+umap-learn==0.5.5
+openTSNE==1.0.0
+
+# Optional model interpretation
+
+shap==0.44.1
+
+# Notebook support
+
+jupyter==1.0.0
+ipykernel==6.29.0
